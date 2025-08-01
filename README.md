@@ -4,13 +4,9 @@ Welcome to my modern, responsive **Developer Portfolio Website**, built as part 
 
 Deployed here: 👉 **[task2portfolio0.netlify.app](https://task2portfolio0.netlify.app/)**
 
----
-
 ## 🎨 Overview
 
 The goal of this project was to build a fully responsive, visually appealing, and user-friendly portfolio that highlights my abilities in web design and development. It includes several engaging UI elements and transitions to keep the experience both professional and memorable.
-
----
 
 ## 🔑 Key Features
 
@@ -38,16 +34,12 @@ The goal of this project was to build a fully responsive, visually appealing, an
 * Hover animations on buttons and links.
 * Scroll-triggered animations using CSS transitions.
 * Neat spacing, font consistency, and visual hierarchy for readability.
-  
----
 
 ## 🛠️ Technologies Used
 
 * **HTML5** – Semantic layout structure.
 * **CSS3** – Custom styling, flexbox/grid layout, animations, and responsiveness.
 * **JavaScript (Vanilla)** – DOM manipulation, interactivity, and scroll behavior.
-
----
 
 ## 💡 What I Learned
 
